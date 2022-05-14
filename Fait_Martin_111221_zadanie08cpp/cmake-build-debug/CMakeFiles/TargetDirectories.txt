@@ -1,0 +1,3 @@
+E:/Programko/CLionProjects/Programovanie 2/Zadanie_8/cmake-build-debug/CMakeFiles/Zadanie_8.dir
+E:/Programko/CLionProjects/Programovanie 2/Zadanie_8/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/Programko/CLionProjects/Programovanie 2/Zadanie_8/cmake-build-debug/CMakeFiles/rebuild_cache.dir
