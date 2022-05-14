@@ -1,0 +1,3 @@
+E:/Programko/CLionProjects/ProgramovacieTechniky/zadanie_4/cmake-build-debug/CMakeFiles/yadanie_4.dir
+E:/Programko/CLionProjects/ProgramovacieTechniky/zadanie_4/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/Programko/CLionProjects/ProgramovacieTechniky/zadanie_4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
