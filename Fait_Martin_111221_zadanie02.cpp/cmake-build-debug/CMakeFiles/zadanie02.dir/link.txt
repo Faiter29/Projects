@@ -1,0 +1,3 @@
+"C:\Users\Faiter\Programovanie\CLion 2021.3.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\zadanie02.dir/objects.a
+C:\Users\Faiter\PROGRA~1\CLION2~1.2\bin\mingw\bin\ar.exe qc CMakeFiles\zadanie02.dir/objects.a @CMakeFiles\zadanie02.dir\objects1.rsp
+C:\Users\Faiter\PROGRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE -g -Wl,--whole-archive CMakeFiles\zadanie02.dir/objects.a -Wl,--no-whole-archive -o zadanie02.exe -Wl,--out-implib,libzadanie02.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\zadanie02.dir\linklibs.rsp
