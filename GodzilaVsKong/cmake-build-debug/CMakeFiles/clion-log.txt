@@ -1,0 +1,10 @@
+"C:\Users\Faiter\Programovanie\CLion 2021.3.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" "E:\Programko\CLionProjects\Programovanie 2\z4_clion_projekt"
+-- The C compiler identification is GNU 11.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: C:/Users/Faiter/Programovanie/CLion 2021.3.2/bin/mingw/bin/gcc.exe - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Configuring done
+-- Generating done
+-- Build files have been written to: E:/Programko/CLionProjects/Programovanie 2/z4_clion_projekt/cmake-build-debug
